@@ -1,8 +1,10 @@
 # gogoanime-dl
 An anime downloader which downloads all anime episodes as a zipped file into your google drive from gogoanime.
 
-### It is purely meant for educational purposes
+## Important: Already obselete, rather use [SenPY](https://github.com/FireHead90544/SenPY). You are free to experiment with it though.
 
-## NOTE: For now, this will only work with google colab, just open the notebook in google colab and follow the steps written in the notebook, I'll create a fork of this to be able to work with python3 on your system (alongwith the notebook) for downloading directly on your pc whenever I get time to do so :)
+#### It is purely meant for educational purposes
+
+#### NOTE: For now, this will only work with google colab, just open the notebook in google colab and follow the steps written in the notebook, I'll create a fork of this to be able to work with python3 on your system (alongwith the notebook) for downloading directly on your pc whenever I get time to do so :)
 
 [Open in Google Colab](https://colab.research.google.com/drive/1x7Ksz1_6iC5jy9Pna4iQFf5LR9ISIIWX?usp=sharing)
